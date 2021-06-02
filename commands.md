@@ -9,7 +9,7 @@ Here's the list of Hypertonic's Commands
 () = Optional Arguments
 
 
-### General (22 commands)
+### General (18 commands)
 
 | Name              | Description                                                 | Usage                          |
 | ----------------- | ----------------------------------------------------------- | ------------------------------ |
