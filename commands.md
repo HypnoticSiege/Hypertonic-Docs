@@ -52,8 +52,28 @@ Here's the list of Hypertonic's Commands
 | **setlogs**       | Sets Logging Channel in your Guild for Hypertonic           | setlogs [LOGS_CHANNEL_ID]             |
 
 ### Giveaway (3 Commands)
+
 | Name               | Description                                              | Usage                                            |
 | ------------------ | -------------------------------------------------------- | ------------------------------------------------ |
 | **giveawaystart**  | Starts a Giveaway                                        | giveawaystart [CHANNEL] [TIME] [WINNERS] [PRIZE] |
 | **giveawayend**    | Ends a Giveaway                                          | giveawaystop [GIVEAWAY_MESSAGE_ID]               |
 | **giveawayreroll** | Rerolls a Giveaway                                       | giveawayreroll [GIVEAWAY_MESSAGE_ID]             |
+
+### Fun (14 commands)
+
+| Name              | Description                                                 | Usage                                 |
+| ----------------- | ----------------------------------------------------------- | ------------------------------------- |
+| **dice**          | Roles a Dice for you                                        | dice                                  |
+| **8ball**         | Virtual 8 Ball to Answer your deepest questions             | 8ball [QUESTION]                      |
+| **coinflip**      | Flip a Virtual Coin for yourself                            | coinflip                              |
+| **nsfw**          | You'll See ;)                                               | nsfw                                  |
+| **cuddle**        | Cuddle with your favorite person <3                         | cuddle [@USER]                        |
+| **kiss**          | Kiss that one person :)                                     | kiss [@USER]                          |
+| **slap**          | Slap someone you've always wanted to                        | slap [@USER]                          |
+| **kill**          | Kills someone... if you really want to                      | kill [@USER]                          |
+| **hug**           | Hug someone who might need/want it                          | hug [@USER]                           |
+| **meme**          | Gets you a random meme (No Gaurantee it will be Funny)      | meme                                  |
+| **joke**          | Gets you a random joke from le interwebs                    | joke                                  |
+| **lie**           | Start a Lie Detector Test on another user                   | lie [@USER] [QUESTION]                |
+| **rps**           | Play Rock, Paper, Scissors with Hypertonic                  | rps                                   |
+| **calculator**    | Do those basic equations from the comfort of Discord        | calculator [EQUATION]                 |
